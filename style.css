@@ -12,3 +12,8 @@ h1
 {
     font-size: large;
 }
+
+h1, p 
+{
+    font-family: "Times New Roman", sans-serif";
+}
