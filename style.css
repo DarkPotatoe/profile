@@ -20,12 +20,13 @@ p
 text-align : center;
 }
 
-h1 {
-    font-size: large;
+h1 { font-size: large;
 }
 
 
 h1, p 
-{
-    font-family: "Times New Roman", sans-serif
+{ font-family: "Times New Roman", sans-serif
+}
+
+{text-decoration: overline;
 }
